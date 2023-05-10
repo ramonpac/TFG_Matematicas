@@ -6,8 +6,8 @@ Los datos de entrenamiento y test del modelo pueden encontrarse en el archivo BD
 
 Dado que, el modelo presenta una componente de aletoriedad en la etapa de bagging, si se pretende replicar los resultados, se debe cargar primero el espacio de trabajo de R: imagen_resultados_TFG.RData
 
-El archivo ARIMA_TFG.R contiene el código de las figuras de ejemplo del capítulo 2 del TFG.
+El archivo ARIMA_TFG.R contiene el código del modelo ARIMA desarrollado en el capítulo 2 del TFG.
 
 El archivo graficos_simulaciones.R contiene el código de las figuras de ejemplo del capítulo 2 del TFG.
 
-El archivo grafico_confinamiento.R contiene el código de las figuras de ejemplo del capítulo 2 del TFG.
+El archivo grafico_confinamiento.R contiene el código de la primera figura de la sección 2.5 del TFG.
